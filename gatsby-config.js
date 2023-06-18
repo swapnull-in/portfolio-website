@@ -2,12 +2,12 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Brittany Chiang',
+    title: 'Swapnil Godambe | Engineering Manager',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+      'Swapnil Godambe is an Engineering Manager based in Mumbai, IN who specializes in engineering and architecting mobile applications & platforms.',
+    siteUrl: 'https://swapnull.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@swapnull_in',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -144,7 +144,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: 'UA-45666519-2',
+        trackingId: 'UA-38035025-3',
       },
     },
   ],
