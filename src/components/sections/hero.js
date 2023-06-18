@@ -68,7 +68,8 @@ const Hero = () => {
         I'm an Engineering Manager based in Mumbai, IN specializing in building exceptional,
         high-quality mobile applications & software platforms.{' '}
         <a href="https://www.axisbank.com" target="_blank" rel="noreferrer">
-          Axis Bank DBAT | Freecharge
+          {' '}
+          Axis Bank DBAT | Freecharge{' '}
         </a>
         .
       </p>
