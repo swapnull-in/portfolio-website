@@ -9,6 +9,8 @@ tech:
   - Java
   - iOS
   - Swift
+cta: ''
+github: ''
 showInProjects: true
 ---
 
