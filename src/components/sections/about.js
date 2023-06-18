@@ -165,7 +165,7 @@ const About = () => {
             <p>
               Also, I have in-person attended,{' '}
               <a href="https://io.google/2019/">Google I/O 2019,</a>{' '}
-              <a href="https://developer.apple.com/wwdc23/">Apple WWDC 2019,</a> ,{' '}
+              <a href="https://developer.apple.com/wwdc23/">Apple WWDC 2019</a>,{' '}
               <a href="https://www.ces.tech">CES 2019,</a> &amp;{' '}
               <a href="https://www.ces.tech">CES 2020</a> .
             </p>
