@@ -76,7 +76,7 @@ const Hero = () => {
       href="https://www.linkedin.com/in/swapnull/"
       target="_blank"
       rel="noreferrer">
-      Say Hello
+      LinkedIn
     </a>
   );
 
