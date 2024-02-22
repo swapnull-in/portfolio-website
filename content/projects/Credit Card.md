@@ -12,4 +12,18 @@ company: 'Axis Bank - DBAT | Freecharge'
 showInProjects: true
 ---
 
-Axis Bank Credit Card Post Acqusition Journey.
+Axis Bank - Credit Card post acqusition journey consist of users end to end ownership experience of credit card.
+
+Featues
+
+- Credit card bill payments
+- Convert to EMI
+- Upgrade card
+- Manage the Usage (Domenstic & International)
+- View or download statement
+- Avail the offers
+- Digital unboxing
+- Instant loan
+- Control dashboard
+- Add On Services
+- Digital card
