@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES13)', 'Node.js', 'Android', 'iOS', 'Kotlin', 'SwiftUI'];
+  //const skills = ['JavaScript (ES13)', 'Node.js', 'Android', 'iOS', 'Kotlin', 'SwiftUI'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -137,24 +137,38 @@ const About = () => {
             <p>
               Hello! I'm Swapnil Godambe, a Director of Engineering at my current company{' '}
               <a href="https://www.axisbank.com" target="_blank" rel="noreferrer">
-                {' '}
-                Axis Bank DBAT | Freecharge{' '}
+                Axis Bank DBAT | Freecharge
               </a>
               .
             </p>
+
             <p>
               I am really enjoying my time working here with some of the brightest minds. Being
               responsible for technical ownership of financial products.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://servify.in/">Servify</a>, own startup - The Observatory (acquired by
-              Servify), <a href="https://www.wolterskluwer.com/en-in">Wolters Kluwer | Medknow</a> &{' '}
+              Previously, co-founded consultancy company - The Observatory specialised in Mobile
+              Apps and Web Applications. We built initial version of{' '}
+              <a href="https://servify.in/">Servify</a> and later got acquired by{' '}
+              <a href="https://servify.in/">Servify</a>.
+            </p>
+
+            <p>
+              {' '}
+              <a href="https://servify.in/">Servify</a> ($800 Mn) is startup based out of Mumbai.
+              Specialised in after sales and digital insurance. Was a core-team member and worked
+              closely with founder. Lead the engineering team and built the product from concept to
+              global launch. Hired and trained team from 0 to 50. Worked closely with all the
+              business functions.
+            </p>
+
+            <p>
+              Prior to that worked on building Mobile Apps and platforms at{' '}
+              <a href="https://www.wolterskluwer.com/en-in">Wolters Kluwer | Medknow</a> &{' '}
               <a href="https://www.linkedin.com/company/vivaconnect-helo/">
                 mobile apps development firm
               </a>
-              .
             </p>
 
             <p>
@@ -169,13 +183,7 @@ const About = () => {
               <a href="https://www.ces.tech">CES 2019,</a> &amp;{' '}
               <a href="https://www.ces.tech">CES 2020</a> .
             </p>
-
-            <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
-
-          <ul className="skills-list">
-            {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
-          </ul>
         </StyledText>
 
         <StyledPic>
