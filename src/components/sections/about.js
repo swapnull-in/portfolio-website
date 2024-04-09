@@ -139,28 +139,22 @@ const About = () => {
               <a href="https://www.axisbank.com" target="_blank" rel="noreferrer">
                 Axis Bank DBAT | Freecharge
               </a>
-              .
-            </p>
-
-            <p>
-              I am really enjoying my time working here with some of the brightest minds. Being
-              responsible for technical ownership of financial products.
+              , building financial products and digital experiences.
             </p>
 
             <p>
               Previously, co-founded consultancy company - The Observatory specialised in Mobile
               Apps and Web Applications. We built initial version of{' '}
-              <a href="https://servify.in/">Servify</a> and later got acquired by{' '}
-              <a href="https://servify.in/">Servify</a>.
+              <a href="https://servify.in/">Servify</a> and later got acquired.
             </p>
 
             <p>
               {' '}
-              <a href="https://servify.in/">Servify</a> ($800 Mn) is startup based out of Mumbai.
-              Specialised in after sales and digital insurance. Was a core-team member and worked
-              closely with founder. Lead the engineering team and built the product from concept to
-              global launch. Hired and trained team from 0 to 50. Worked closely with all the
-              business functions.
+              <a href="https://servify.in/">Servify</a> (currently valued, $800 Mn) is startup based
+              out of Mumbai. Specialised in after sales and digital insurance. Was a core-team
+              member and worked closely with founder. Lead the engineering team and built the
+              product from concept to global launch. Hired and trained team from 0 to 50. Worked
+              closely with all the business functions.
             </p>
 
             <p>
@@ -169,11 +163,6 @@ const About = () => {
               <a href="https://www.linkedin.com/company/vivaconnect-helo/">
                 mobile apps development firm
               </a>
-            </p>
-
-            <p>
-              My main focus these days is building financial products and digital experiences at{' '}
-              <a href="https://www.axisbank.com">Axis Bank DBAT | Freecharge</a>.
             </p>
 
             <p>
