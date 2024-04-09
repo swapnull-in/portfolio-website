@@ -135,7 +135,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Swapnil Godambe, a Director of Engineering at my current company{' '}
+              Hello! I'm Swapnil Godambe, a Director of Engineering at{' '}
               <a href="https://www.axisbank.com" target="_blank" rel="noreferrer">
                 Axis Bank DBAT | Freecharge
               </a>
